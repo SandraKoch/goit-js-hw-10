@@ -2,20 +2,20 @@
   "name": "goit-js-hw-10",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://sandrakoch.github.io/goit-js-hw-10",
+  "homepage": "https://Sandrakoch.github.io/goit-js-hw-10",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sandrakoch/goit-js-hw-10.git"
+    "url": "git+https://github.com/SandraKoch/goit-js-hw-10.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Sandra Koch <sandraannakoch@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sandrakoch/goit-js-hw-10/issues"
+    "url": "https://github.com/SandraKoch/goit-js-hw-10/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
